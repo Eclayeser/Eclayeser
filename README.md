@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eclayeser
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ambitious projects
 - 📫 I can be reached on any social media stated in my account
 - 😄 Pronouns: he/him
