@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eclayeser
+- 👋 Hi, I’m Mark
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ambitious projects
